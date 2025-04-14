@@ -1,7 +1,9 @@
 #🇧🇩 BDIX-WiFi-Speed-Bypass_And_Free_Internet_Tricks 🇧🇩
 <br> <br>
-কিভাবে ডাউনলোড করবেন ও সেটাপ করবেন তার  <a href="https://youtu.be/9ml6xo33aWo">ভিডিও লিংক</a><br> <br>
-
+কিভাবে ডাউনলোড করবেন ও সেটাপ করবেন তার  <a href="https://youtu.be/9ml6xo33aWo">ভিডিও লিংক</a>
+<br> <br>
+<br> কনফিগ ফাইল ডাউনলোড <a href="https://github.com/ratulxhasan/BDIX-WiFi-Speed-Bypass-Free-Internet/releases/tag/Vpnconfig">Download</a><br>
+<br> <br>
 First download app from this link <a href="https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom">HTTP Custom </a><br> <p> Download Config File From Latest Assest from repositories </p><br> <p>NOW Follow all screenshots below one by one. And import file in vpn click (+) icon</p>
 ![Screenshot_2025-04-12-22-27-33-57_8661fb0cac2bd1584058d5e43ee5e019](https://github.com/user-attachments/assets/278fe0dc-6840-4968-a71c-e4c53fe60996)
 <br>
